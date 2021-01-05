@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fontSize">
+        <item>---- 선택 ----</item>
+        <item>10pt</item>
+        <item>20pt</item>
+        <item>30pt</item>
+        <item>40pt</item>
+        <item>50pt</item>
+        <item>60pt</item>
+        <item>70pt</item>
+        <item>80pt</item>
+        <item>90pt</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font">
+        <item>---- 선택 ----</item>
+        <item>굴림</item>
+        <item>궁서</item>
+        <item>고딕</item>
+    </string-array>
+</resources>
